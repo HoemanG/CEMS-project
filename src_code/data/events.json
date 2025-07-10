@@ -1,0 +1,25 @@
+{
+    "FPTU20250727_001": {
+        "name": "Secathon",
+        "date": "27/07/2025",
+        "capacity": 100,
+        "org_id": "FPTU",
+        "atds": [
+            "CE200090"
+        ]
+    },
+    "FSC20250705_001": {
+        "name": "Regional Robotic Challenge",
+        "date": "05/07/2025",
+        "capacity": 100,
+        "org_id": "FSC",
+        "atds": []
+    },
+    "FSC20250828_001": {
+        "name": "FSC_Games",
+        "date": "28/08/2025",
+        "capacity": 100,
+        "org_id": "FSC",
+        "atds": []
+    }
+}

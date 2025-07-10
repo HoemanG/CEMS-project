@@ -1,0 +1,12 @@
+{
+    "CE200090": {
+        "name": "Phan Tr\u1ecdng Nh\u00e2n",
+        "contact": "example@fpt.edu.vn",
+        "is_student": true
+    },
+    "GT001": {
+        "name": "Dullahan Gan Ceann",
+        "contact": "Headless_knight_Dullahan@gmail.com",
+        "is_student": false
+    }
+}
