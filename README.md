@@ -37,14 +37,14 @@ The system's design is documented through a series of UML diagrams, which can be
 The main application flow begins at `main.py`. The user is prompted to select their role. Based on the selection, the system transitions to the appropriate state and displays the corresponding user interface.
 
 *(Placeholder for Flowchart Diagram: `../Document/PFP191_ASG-Flowchart.drawio.svg`)*
-![Flowchart](./../Document/PFP191_ASG-Flowchart.drawio.svg)
+![Flowchart](./Document/PFP191_ASG-Flowchart.drawio.svg)
 
 ### Class Diagram
 
 The system is composed of four main classes: `Event`, `Admin`, `Organizer`, and `Attendee`. The `Event` class is central, holding all event-related information. The `Admin`, `Organizer`, and `Attendee` classes define the roles and interactions within the system.
 
 *(Placeholder for Class Diagram: `../Document/PFP191_ASG-Class.drawio.svg`)*
-![Class Diagram](./../Document/PFP191_ASG-Class.drawio.svg)
+![Class Diagram](./Document/PFP191_ASG-Class.drawio.svg)
 
 ### State Diagrams
 
@@ -52,15 +52,15 @@ State diagrams detail the specific workflows and state transitions for each user
 
 -   **Attendee State Diagram:** Shows the flow for an attendee searching, registering, and viewing events.
     *(Placeholder for Attendee State Diagram: `../Document/PFP191_ASG-state 1 - attendees.drawio.svg`)*
-    ![Attendee State Diagram](./../Document/PFP191_ASG-state%201%20-%20attendees.drawio.svg)
+    ![Attendee State Diagram](./Document/PFP191_ASG-state%201%20-%20attendees.drawio.svg)
 
 -   **Organizer State Diagram:** Shows the flow for an organizer managing their events and attendees.
     *(Placeholder for Organizer State Diagram: `../Document/PFP191_ASG-state 2 - organizer.drawio.svg`)*
-    ![Organizer State Diagram](./../Document/PFP191_ASG-state%202%20-%20organizer.drawio.svg)
+    ![Organizer State Diagram](./Document/PFP191_ASG-state%202%20-%20organizer.drawio.svg)
 
 -   **Admin State Diagram:** Shows the flow for an admin overseeing the entire system.
     *(Placeholder for Admin State Diagram: `../Document/PFP191_ASG-state 3 - admin.drawio.svg`)*
-    ![Admin State Diagram](./../Document/PFP191_ASG-state%203%20-%20admin.drawio.svg)
+    ![Admin State Diagram](./Document/PFP191_ASG-state%203%20-%20admin.drawio.svg)
 
 
 ## How to Run
