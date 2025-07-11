@@ -22,6 +22,7 @@ if __name__ == "__main__":
         state = int(input("Please enter your role, enter 0 to exit "))
 
         if state == 0:
+            input("Press any key to continue ... ")
             exit()
         
 
